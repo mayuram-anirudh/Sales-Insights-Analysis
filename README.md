@@ -1,3 +1,3 @@
 # Sales-Insights-Analysis
 
-https://prod-ca-a.online.tableau.com/t/anirudhmayuram/views/SalesInsightsProject/Dashboard1?:origin=card_share_link&:embed=n
+https://public.tableau.com/app/profile/anirudh.mayuram1135/viz/SalesInsightsProject_16892088799750/Dashboard1?publish=yes
